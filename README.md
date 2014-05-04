@@ -1,4 +1,4 @@
 SpaceBattle
 ===========
 
-game using module pygame
+a game in python using pygame module
